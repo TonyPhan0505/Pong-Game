@@ -1,2 +1,2 @@
 # Pong-Game
-Pong Game made with Python
+Pong Game made with Pygame
